@@ -1,0 +1,132 @@
+Subject,Predicate,Object
+Student6601,hasFirstName,Saiki
+Student6601,hasLastName,Kusuo
+Student6601,hasHouseNumber,123/45
+Student6601,hasStreet,Phahonyothin 32 Rd.
+Student6601,hasSubDistrict,Khlong Thanon Sub-District
+Student6601,hasDistrict,Sai Mai District
+Student6601,hasProvince,Bangkok
+Student6601,hasPostalCode,10220
+Student6601,birthDate,2000-02-02
+Student6602,hasFirstName,Gintoki
+Student6602,hasLastName,Sakata
+Student6602,hasHouseNumber,56/7
+Student6602,hasStreet,Chiang Mai–Lamphun Rd.
+Student6602,hasSubDistrict,Tha Sala Sub-District
+Student6602,hasDistrict,Mueang Chiang Mai District
+Student6602,hasProvince,Chiang Mai
+Student6602,hasPostalCode,50300
+Student6602,birthDate,1992-03-01
+Student6603,hasFirstName,Sai
+Student6603,hasLastName,Tama
+Student6603,hasHouseNumber,9/2
+Student6603,hasStreet,Ratbumrung 5 Alley
+Student6603,hasSubDistrict,Maluan Sub-District
+Student6603,hasDistrict,Thung Song District
+Student6603,hasProvince,Nakhon Si Thammarat
+Student6603,hasPostalCode,80110
+Student6603,birthDate,1990-04-18
+Student6604,hasFirstName,Gude
+Student6604,hasLastName,Tama
+Student6604,hasHouseNumber,78/2
+Student6604,hasStreet,Sukhumvit 101 Rd.
+Student6604,hasSubDistrict,Bang Chak Sub-District
+Student6604,hasDistrict,Phra Khanong District
+Student6604,hasProvince,Samut Prakan
+Student6604,hasPostalCode,10260
+Student6604,birthDate,2015-07-23
+Student6605,hasFirstName,Haru
+Student6605,hasLastName,Yamada
+Student6605,hasHouseNumber,12/3
+Student6605,hasStreet,Sukhumvit 50 Rd.
+Student6605,hasSubDistrict,Bang Chak
+Student6605,hasDistrict,Phra Khanong
+Student6605,hasProvince,Bangkok
+Student6605,hasPostalCode,10260
+Student6605,birthDate,2001-05-12
+Student6606,hasFirstName,Ken
+Student6606,hasLastName,Tanaka
+Student6606,hasHouseNumber,45/6
+Student6606,hasStreet,Rama 9 Rd.
+Student6606,hasSubDistrict,Huai Khwang
+Student6606,hasDistrict,Huai Khwang District
+Student6606,hasProvince,Bangkok
+Student6606,hasPostalCode,10310
+Student6606,birthDate,2000-08-22
+Student6607,hasFirstName,Yui
+Student6607,hasLastName,Suzuki
+Student6607,hasHouseNumber,22/9
+Student6607,hasStreet,Thonglor Rd.
+Student6607,hasSubDistrict,Khlong Tan
+Student6607,hasDistrict,Wattana District
+Student6607,hasProvince,Bangkok
+Student6607,hasPostalCode,10110
+Student6607,birthDate,1999-12-05
+Student6608,hasFirstName,Akira
+Student6608,hasLastName,Kobayashi
+Student6608,hasHouseNumber,33/12
+Student6608,hasStreet,Ratchadaphisek Rd.
+Student6608,hasSubDistrict,Huai Khwang
+Student6608,hasDistrict,Huai Khwang District
+Student6608,hasProvince,Bangkok
+Student6608,hasPostalCode,10310
+Student6608,birthDate,2001-03-17
+SF333,courseName,Mobile Device Application Development
+SF333,hasCredits,3
+CN230,courseName,Database Systems
+CN230,hasCredits,3
+CN101,courseName,Introduction to Computer Programming
+CN101,hasCredits,3
+SF330,courseName,Software Requirements and Specifications
+SF330,hasCredits,3
+Student6601,takesCourse,SF333
+Student6601,hasGrade,3
+Student6601,hasSemester,1/2565
+Student6602,takesCourse,SF333
+Student6602,hasGrade,3.25
+Student6602,hasSemester,1/2566
+Student6602,takesCourse,CN230
+Student6602,hasGrade,3.75
+Student6602,hasSemester,2/2566
+Student6602,takesCourse,CN101
+Student6602,hasGrade,3.75
+Student6602,hasSemester,2/2566
+Student6603,takesCourse,CN101
+Student6603,hasGrade,3.11
+Student6603,hasSemester,2/2565
+Student6604,takesCourse,SF330
+Student6604,hasGrade,2.68
+Student6604,hasSemester,1/2567
+Student6604,takesCourse,CN230
+Student6604,hasGrade,2.98
+Student6604,hasSemester,2/2568
+Student6605,takesCourse,SF333
+Student6605,hasGrade,3.5
+Student6605,hasSemester,1/2566
+Student6605,takesCourse,CN101
+Student6605,hasGrade,3.2
+Student6605,hasSemester,2/2566
+Student6605,takesCourse,SF330
+Student6605,hasGrade,3.0
+Student6605,hasSemester,2/2567
+Student6606,takesCourse,CN230
+Student6606,hasGrade,3.0
+Student6606,hasSemester,2/2566
+Student6606,takesCourse,SF330
+Student6606,hasGrade,2.9
+Student6606,hasSemester,1/2567
+Student6606,takesCourse,CN101
+Student6606,hasGrade,3.1
+Student6606,hasSemester,2/2567
+Student6607,takesCourse,SF333
+Student6607,hasGrade,3.3
+Student6607,hasSemester,1/2566
+Student6607,takesCourse,CN230
+Student6607,hasGrade,3.5
+Student6607,hasSemester,2/2566
+Student6608,takesCourse,CN101
+Student6608,hasGrade,3.4
+Student6608,hasSemester,1/2567
+Student6608,takesCourse,SF330
+Student6608,hasGrade,3.0
+Student6608,hasSemester,2/2567
